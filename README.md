@@ -32,5 +32,5 @@ The data image datasets  was colleted from kaggle by using the kaggle Api becaus
 - HTML,Flask,Javacsript
 - writeup/reporting
 ## Contact
-* I am always availanle at owususammy509@gmail.com 
+* I am always available at owususammy509@gmail.com 
 * Feel free to me if there is any questions or there is porject i can make a contribution to
