@@ -1,6 +1,6 @@
 # Cat-vrs-Dog-Classifier
 ## Table of Contents
--Overview
--Technical Aspect
--Installation
--Technology Used
+1.Overview
+2.Technical Aspect
+3.Installation
+4.Technology Used
