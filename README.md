@@ -4,7 +4,7 @@
 This is a simpple deep learning  Flask app trained on top of Keras APi.The trained model will take an input image and predict the class between Dog and Cat
 
 #### -- Project Status: [Active]
-![Cat_Dog_image]("https://media.istockphoto.com/photos/happy-border-collie-dog-and-tabby-cat-together-closeup-picture-id1138523235?k=20&m=1138523235&s=612x612&w=0&h=K6lpiSJBvyqtghCESa9YsbKYrsvRJnS4Po0Jr8djuIw=")
+![Cat_Dog_image]("http://a.abcnews.com/images/Lifestyle/gty_cat_dog_portrait_thg_130613_wblog.jpg")
 
 ## Project Intro/Objective
 The purpose of this project is is to complete my certification on free code camp as it is one of the six projects requiired to acquire the certificate
@@ -44,5 +44,4 @@ The data image datasets  was colleted from kaggle by using the kaggle Api becaus
 4. etc...
 ## Contact
 * I am always availanle at owususammy509@gmail.com 
-* Our slack channel is `#datasci-projectname`
-* Feel free to me if there is any questions or there is porject and make a contribution to
+* Feel free to me if there is any questions or there is porject i can make a contribution to
